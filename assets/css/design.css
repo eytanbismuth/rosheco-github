@@ -1056,3 +1056,26 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-prev,
 body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
   line-height: 55px;
 }
+
+
+.texttop{
+  text-align: center;
+}
+
+.texttop2{
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
+
+.photoprez{
+    padding-top: 12em;
+    padding-bottom: 40px;
+
+}
+
+.retour{
+  padding-top: 30px;
+}
+
