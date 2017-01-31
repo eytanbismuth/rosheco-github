@@ -1,50 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
- <url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.rosheinvests.com/</loc>
+  <lastmod>2017-01-31T01:36:35+00:00</lastmod>
+</url>
+<url>
   <loc>http://www.rosheinvests.com/index.html</loc>
-  <priority>1</priority>
- </url>
- <url>
+  <lastmod>2017-01-31T01:36:35+00:00</lastmod>
+</url>
+<url>
   <loc>http://www.rosheinvests.com/immobilier.html</loc>
-  <priority>0.7</priority>
- </url>
- <url>
+  <lastmod>2017-01-31T01:36:35+00:00</lastmod>
+</url>
+<url>
   <loc>http://www.rosheinvests.com/restructuring.html</loc>
-  <priority>0.7</priority>
- </url>
-  <url>
+  <lastmod>2017-01-31T01:36:35+00:00</lastmod>
+</url>
+<url>
   <loc>http://www.rosheinvests.com/startup.html</loc>
-  <priority>0.7</priority>
- </url>
-   <url>
+  <lastmod>2017-01-31T01:36:35+00:00</lastmod>
+</url>
+<url>
   <loc>http://www.rosheinvests.com/portfolio.html</loc>
-  <priority>0.7</priority>
- </url>
-    <url>
+  <lastmod>2017-01-31T01:36:35+00:00</lastmod>
+</url>
+<url>
   <loc>http://www.rosheinvests.com/docvisio.html</loc>
-  <priority>0.5</priority>
- </url>
-     <url>
-  <loc>http://www.rosheinvests.com/tipple.html</loc>
-  <priority>0.5</priority>
- </url>
-     <url>
-  <loc>http://www.rosheinvests.com/smartinlao.html</loc>
-  <priority>0.5</priority>
- </url>
-      <url>
+  <lastmod>2017-01-31T01:36:35+00:00</lastmod>
+</url>
+<url>
   <loc>http://www.rosheinvests.com/cliniquebonneveine.html</loc>
-  <priority>0.5</priority>
- </url>
-      <url>
-  <loc>http://www.rosheinvests.com/cliniquevauban.html</loc>
-  <priority>0.5</priority>
- </url>
-      <url>
+  <lastmod>2017-01-31T01:36:35+00:00</lastmod>
+</url>
+<url>
   <loc>http://www.rosheinvests.com/centresantemedia.html</loc>
-  <priority>0.5</priority>
- </url>
-      <url>
+  <lastmod>2017-01-31T01:36:35+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.rosheinvests.com/cliniquevauban.html</loc>
+  <lastmod>2017-01-31T01:36:35+00:00</lastmod>
+</url>
+<url>
   <loc>http://www.rosheinvests.com/cfao.html</loc>
-  <priority>0.5</priority>
- </url>
+  <lastmod>2017-01-31T01:36:35+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.rosheinvests.com/smartinlao.html</loc>
+  <lastmod>2017-01-31T01:36:35+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.rosheinvests.com/tipple.html</loc>
+  <lastmod>2017-01-31T01:36:35+00:00</lastmod>
+</url>
+</urlset>
