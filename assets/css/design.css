@@ -1097,9 +1097,6 @@ iframe {
     margin-right: auto; 
   }
 
-.keyservices{
-  padding-top: 40px;
-}
 
 .numbers h5{
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -1121,9 +1118,7 @@ padding-top: 20px;
 padding-bottom: 20px;
 }
 
-.preannonce{
-  font-size: 15px;
-}
+
 
 ul {
 list-style:none;
@@ -1139,5 +1134,60 @@ margin-bottom:15px;/* à adapter */
 }
 
 .preannonce{
-  font-size: 15px;
+  font-size: 17px;
 }
+
+
+
+
+.navbar-transparent {
+  background-color: rgba(101, 122, 146, 0.7);
+}
+
+.navbar-transparent .navbar-brand,
+.navbar-transparent .navbar-nav > li > a {
+  color: #eeeeee;
+  line-height: 10px;
+}
+
+.navbar-transparent .navbar-nav > li > a:hover,
+.navbar-transparent .navbar-nav > li > a:active,
+.navbar-transparent .navbar-nav > li > a:focus,
+.navbar-transparent .navbar-nav > .open > a,
+.navbar-transparent .navbar-nav > .open > a:hover,
+.navbar-transparent .navbar-nav > .open > a:focus {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.navbar-transparent .navbar-brand:hover,
+.navbar-transparent .navbar-brand:active,
+.navbar-transparent .navbar-brand:focus {
+  color: white;
+}
+
+
+.keyservices{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.workune{
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+
+.actu{
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.bando{
+  background-color: rgb(245,245,245);
+}
+
+
+
+
+
+
