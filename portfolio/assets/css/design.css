@@ -3,6 +3,7 @@ html,
 body {
   height: 100%;
 }
+
 .img-centered {
   margin: 0 auto;
 }
@@ -94,7 +95,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: #ffffff;
 }
 body {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cardo", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: 300;
 }
@@ -459,7 +460,7 @@ aside.cta-quote span.quote {
   display: inline-block;
 }
 .testimonials .testimonials-carousel .item .testimonial-info .testimonial-author .name {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 900;
   text-transform: uppercase;
 }
